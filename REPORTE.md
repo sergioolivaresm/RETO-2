@@ -16,7 +16,7 @@ Primero, es necesario que el usuario cuente con las siguientes herramientas para
 
 -Visual Studio Coda (VSCode)
 
--Git
+-Git![alt text](image-5-2.png)
 
 ## 2.Ejecuciones
 
